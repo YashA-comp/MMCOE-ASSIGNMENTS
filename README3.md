@@ -1,0 +1,2 @@
+Our team has acknowledged and interpreted the problem well. We listed a set of activities and packages of activities which includes various different combinations as per the requirement of the member.
+in this program ,initially the information of the member is taken into considered along with the activity they are interested in and in the end we calculated the total amount required for the following activities of the user which will be displayed in members information.
